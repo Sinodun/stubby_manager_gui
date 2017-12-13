@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>stubby@245x145.png</file>
+    </qresource>
+</RCC>
