@@ -1,5 +1,5 @@
 #
-# Copyright 2017 Sinodun Internet Technologies Ltd.
+# Copyright 2017, 2019 Sinodun Internet Technologies Ltd.
 #
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -29,6 +29,8 @@ macx {
   LIBS += -framework AppKit
   LIBS += -framework Security
 }
+
+include(gitversion.pri)
 
 # The following define makes your compiler emit warnings if you use
 # any feature of Qt which as been marked as deprecated (the exact warnings
