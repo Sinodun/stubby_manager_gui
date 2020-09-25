@@ -1,4 +1,4 @@
-# *** This project is no longer maintained, work on a newer GUI is active at https://github.com/Sinodun/stubby_manager ***
+# *** This project is no longer maintained, work on a newer GUI is active at https://github.com/Sinodun/Stubby_Manager ***
 
 # Stubby Manager GUI
 
