@@ -1,4 +1,6 @@
-# Stubby Manager
+# *** This project is no longer maintained, work on a newer GUI is active at https://github.com/Sinodun/stubby_manager ***
+
+# Stubby Manager GUI
 
 A Prototype GUI to aid using Stubby on macOS.
 
